@@ -1,9 +1,7 @@
-const page = () => {
+const Page = () => {
   return (
-    <div>
-
-    </div>
+    <h1>Hello Next.js!</h1>
   )
 }
 
-export default page
+export default Page;
